@@ -10,9 +10,10 @@
 
 ## Features
 
-- 💰 **Economy**: `/balance` to check user balances and manage virtual currency.  
+- 💰 **Economy**: `/balance, /pay, /daily`
 - 🛠️ **Admin Tools**: `/admin_panel` for server moderation and management.  
-- 🎮 **Games & Fun**: Various interactive games and entertainment commands.  
+- 🎮 **Games & Fun**: Various interactive games and entertainment commands.
+- 📁 **Logging** : Logs Server updates ect
 - 🔄 **Constant Updates**: Features and commands are regularly updated and improved.
 
 ---
@@ -32,6 +33,17 @@ All commands and events loaded. Logging in...
 `
 
 ---
+
+##.ENV - Make this file a put your info after the =
+```
+DISCORD_TOKEN=
+CLIENT_ID=
+GUILD_ID=
+LOG_CHANNEL_ID=
+WELCOME_CHANNEL_ID=
+
+```
+
 
 ## Commands
   
