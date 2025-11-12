@@ -2,7 +2,7 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Discord](https://img.shields.io/discord/000000000000000000?label=Discord&logo=discord&color=7289DA)](https://solarvox-links)
+[![Discord](https://img.shields.io/discord/000000000000000000?label=Discord&logo=discord&color=7289DA)](https://discord.gg/DRmZ79ryUR)
 
 **SolarVox** is a powerful, fast, and continuously evolving Discord bot written in **TypeScript** by **SolarVox Developments**. Designed to enhance your server with fun, moderation, and utility features, SolarVox is always being updated with new commands and improvements.
 
