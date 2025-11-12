@@ -10,7 +10,7 @@ import { getGuildSettings } from "../utils/settings";
 
 export const data = new SlashCommandBuilder()
   .setName("admin_panel")
-  .setDescription("Open the anti-link configuration panel")
+  .setDescription("Open the Admin Panel configuration panel")
   .setDefaultMemberPermissions(PermissionFlagsBits.ManageChannels);
 
 export async function execute(interaction: any) {
@@ -59,7 +59,7 @@ export async function execute(interaction: any) {
     new ButtonBuilder().setCustomId("ignored_users").setLabel("Ignored Users").setStyle(ButtonStyle.Primary),
   );
 
-  // ✅ Use ephemeral: true instead of deprecated flags
+  
   await interaction.reply({
     embeds: [embed],
     components: [row1, row2, row3],
