@@ -1,0 +1,15 @@
+{
+  "1432628256170971238": {
+    "antiLinkEnabled": true,
+    "blockInvites": true,
+    "blockLinks": true,
+    "blockMassPings": true,
+    "blockBadWords": false,
+    "ignoredRoles": [
+      "1432628256376623155"
+    ],
+    "ignoredChannels": [],
+    "ignoredUsers": [],
+    "antiLink": true
+  }
+}
