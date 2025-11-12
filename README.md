@@ -62,7 +62,7 @@ SolarVox is licensed under the [Apache License 2.0](LICENSE) © 2025 **SolarVox 
 
 ## Support
 
-If you encounter any issues or have feature suggestions, open an issue in the repository or visit our [SolarVox Links page](https://solarvox-links) for the Discord server and other resources.
+If you encounter any issues or have feature suggestions, open an issue in the repository or visit our [SolarVox Links page](https://github.com/SolarVox-Development/SolarVox/blob/main/links.md) for the Discord server and other resources.
 
 ---
 
